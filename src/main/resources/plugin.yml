@@ -1,0 +1,4 @@
+name: HealthDisplay
+version: '${project.version}'
+main: dev.neurs.healthdisplay.HealthDisplay
+api-version: '1.20'
